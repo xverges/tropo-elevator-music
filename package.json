@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/xverges/tropo-elevator-music/issues"
   },
-  "homepage": "https://github.com/xverges/tropo-elevator-music"
+  "homepage": "https://github.com/xverges/tropo-elevator-music",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "request": "^2.69.0",
+    "tropo-webapi": "^1.2.0"
+  }
 }
